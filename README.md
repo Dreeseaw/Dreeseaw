@@ -16,9 +16,9 @@ I'm a software engineer who loves making data go fast (safely!). I currently wor
 
 ### Fun facts & Fiery takes
 - My dog's name is Hamels
-- There is no "Data Lakehouse or Warehouse", just people trying to make up big words to be thought leaders
+- There is no "Data Lakehouse or Warehouse", just people trying to use buzzwords to be thought leaders
 - Name a flavor of Ben & Jerry's, and I'll name every ingredient 
 - Rust is better than Go, but I'm still not gonna learn it
 
 ### Reach me at
-- wdreese123@gmail.com
+- william@dreese.io
