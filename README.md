@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Dreeseaw/Dreeseaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer who loves making data go fast (safely!). I currently work as a Data Engineer for Chartbeat, where I design & develop systems for processing realtime & historical data at terabyte scale.
 
-Here are some ideas to get you started:
+### Currently, I'm
+- 🎛 Learning about distributed systems and data storage
+- ✅ Trying to get better at Open Source contributions
+- 🐠 Working on my own distributed stream processing package, [Salmon](https://github.com/Dreeseaw/salmon "Be warned, it's a WIP")
+- 🦦 Using Go for all of the above!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Previously, I've worked on
+- ✈️ Realtime data synchronization for military [surveillance](https://www.logostech.net/products/kestrel-block-ii/ "No weapons/targeting involved")
+- 🖍 A Convolutional VAE model that labeled micro-grain sizes for material scientists (deployed internally)
+- 🔬 Published [ML research](https://arxiv.org/pdf/1803.05863.pdf "Learned Neural Iterative Decoding for Lossy Image Compression Systems") on improving JPEG image quality
+- 🖥 A full-stack application for a start-up idea (before realizing it didn't have any product-market fit)
+
+### Fun facts & Fiery takes
+- My dog's name is Hamels
+- There is no "Data Lakehouse or Warehouse", just people trying to make up big words to be thought leaders
+- Name a flavor of Ben & Jerry's, and I'll name every ingredient 
+- Rust is better than Go, but I'm still not gonna learn it
+
+### Reach me at
+- wdreese123@gmail.com
