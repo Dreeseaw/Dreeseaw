@@ -14,11 +14,9 @@ I'm a software engineer who loves making data go fast (safely!). I currently wor
 - 🔬 Published [ML research](https://arxiv.org/pdf/1803.05863.pdf "Learned Neural Iterative Decoding for Lossy Image Compression Systems") on improving JPEG image quality
 - 🖥 A full-stack application for a start-up idea (before realizing it didn't have any product-market fit)
 
-### Fun facts & Fiery takes
+### Fun facts
 - My dog's name is Hamels
-- There is no "Data Lakehouse or Warehouse", just people trying to use buzzwords to be thought leaders
 - Name a flavor of Ben & Jerry's, and I'll name every ingredient 
-- Rust is better than Go, but I'm still not gonna learn it
 
 ### Reach me at
 - william@dreese.io
