@@ -2,11 +2,9 @@
 
 I'm a software engineer who loves making data go fast (safely!). I currently work as a Data Engineer for Chartbeat, where I design & develop systems for processing realtime & historical data at terabyte scale.
 
-### Currently, I'm
-- 🎛 Learning about distributed systems and data storage
-- ✅ Trying to get better at Open Source contributions
-- 🐠 Working on my own distributed stream processing package, [Salmon](https://github.com/Dreeseaw/salmon "Be warned, it's a WIP")
-- 🦦 Using Go for all of the above!
+### Outside of work, I'm
+- ✅ Working on Open Source contributions
+- 🐠 Developing my own distributed stream processing package, [Salmon](https://github.com/Dreeseaw/salmon "Be warned, it's a WIP")
 
 ### Previously, I've worked on
 - ✈️ Realtime data synchronization for military [surveillance](https://www.logostech.net/products/kestrel-block-ii/ "No weapons/targeting involved")
@@ -16,7 +14,7 @@ I'm a software engineer who loves making data go fast (safely!). I currently wor
 
 ### Fun facts
 - My dog's name is Hamels
-- Name a flavor of Ben & Jerry's, and I'll name every ingredient 
+- Name a flavor of Ben & Jerry's, and I'll name every ingredient
 
 ### Reach me at
 - william@dreese.io
